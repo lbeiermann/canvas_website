@@ -5,7 +5,7 @@ export function Default() {
         Lea Beiermann
       </header>
       <h1>Hello there! 👋</h1>
-      <br>
+      
       <p>
         <i>Pssst! Click the button in the top right corner to turn this website 
 	into your personal canvas!</i>
@@ -40,7 +40,7 @@ export function Default() {
       </p>
 
       <span className="dinkus">***</span>
-      <br>
+      
       <center>
       <p>
         <i>The playful website design was made by <a href="https://github.com/OrionReed/orionreed.com">Orion Reed</a>.</i>
