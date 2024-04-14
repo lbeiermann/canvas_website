@@ -8,7 +8,7 @@ export function Default() {
       
       <p>
         <i>Pssst! Click the button in the top right corner to turn this website 
-	into your personal canvas! 🎨</i>
+	into your personal canvas!</i>
       </p>
 
       <p>
@@ -37,11 +37,6 @@ export function Default() {
       <p>
         I am on <a href="https://www.linkedin.com/in/lea-beiermann/">LinkedIn</a> and
         <a href="https://techhub.social/@lea_bei">Mastodon </a>. You can also send me an email via <a href="mailto:lea@beiermann.de">lea@beiermann.de</a>
-      </p>
-      
-      <p>
-        <i>Pssst! Click the button in the top right corner to turn this website 
-	into your personal canvas! 🎨</i>
       </p>
 
       <p>
