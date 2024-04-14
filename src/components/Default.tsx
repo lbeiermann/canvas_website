@@ -38,6 +38,12 @@ export function Default() {
         Mastodon <a href="https://techhub.social/@lea_bei">@lea_bei@techhub.social</a>. You can also send me an email via <a href="mailto:lea@beiermann.de">lea@beiermann.de</a>
       </p>
 
+
+      <p>
+        The playful website design was made by <a href="https://github.com/OrionReed/orionreed.com">Orion Reed</a>.
+      </p>	
+
+
       <span className="dinkus">***</span>
 
     </main>
