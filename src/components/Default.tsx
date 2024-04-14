@@ -36,7 +36,7 @@ export function Default() {
       <h1>Get in touch</h1>
       <p>
         I am on <a href="https://www.linkedin.com/in/lea-beiermann/">LinkedIn</a> and
-        Mastodon <a href="https://techhub.social/@lea_bei">@lea_bei@techhub.social</a>. You can also send me an email via <a href="mailto:lea@beiermann.de">lea@beiermann.de</a>
+        <a href="https://techhub.social/@lea_bei">Mastodon </a>. You can also send me an email via <a href="mailto:lea@beiermann.de">lea@beiermann.de</a>
       </p>
       
       <p>
