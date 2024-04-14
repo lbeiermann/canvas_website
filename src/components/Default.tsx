@@ -41,11 +41,9 @@ export function Default() {
 
       <span className="dinkus">***</span>
       
-      <center>
       <p>
         <i>The playful website design was made by <a href="https://github.com/OrionReed/orionreed.com">Orion Reed</a>.</i>
       </p>
-      </center>	
 
       <span className="dinkus">***</span>
 
