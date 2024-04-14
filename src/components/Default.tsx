@@ -5,6 +5,7 @@ export function Default() {
         Lea Beiermann
       </header>
       <h1>Hello there! 👋</h1>
+
       <p>
         <i>Pssst! Click the button in the top right corner to turn this website 
 	into your personal canvas!</i>
@@ -37,7 +38,6 @@ export function Default() {
         I am on <a href="https://www.linkedin.com/in/lea-beiermann/">LinkedIn</a> and
         Mastodon <a href="https://techhub.social/@lea_bei">@lea_bei@techhub.social</a>. You can also send me an email via <a href="mailto:lea@beiermann.de">lea@beiermann.de</a>
       </p>
-
 
       <p>
         The playful website design was made by <a href="https://github.com/OrionReed/orionreed.com">Orion Reed</a>.
