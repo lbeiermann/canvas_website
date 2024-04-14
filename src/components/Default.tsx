@@ -2,9 +2,9 @@ export function Default() {
   return (
     <main>
       <header>
-        Orion Reed
+        Lea Beiermann
       </header>
-      <h1>Hello! 👋</h1>
+      <h1>Hallo! 👋</h1>
       <p>
         My research investigates the intersection of computing, human-system
         interfaces, and emancipatory politics. I am interested in the
