@@ -12,17 +12,17 @@ export function Default() {
       </p>
 
       <p>
-        I'm a tech communicator with experience in adult education, professional development, 
-	community building, and collaborative content initiatives. I have a proven track record in 
-	developing effective B2B communication strategies, leading web-based crowdsourcing 
-	projects, organizing events, and fostering mutually beneficial partnerships. 
-	My experience in dynamic startup environments has equipped me with the skills to 
-	streamline processes and achieve tangible results.
+        I am a tech communicator with experience in professional learning and development, 
+	community building, and fostering partner relationships. I have a proven track record 
+	in developing effective B2B communication strategies, leading web-based crowdsourcing 
+	projects, organizing events, and fostering mutually beneficial partnerships between organizations. 
+	Working in fast-paced startup environments has taught me to streamline processes and achieve 
+	tangible outcomes alongside my team.
       </p>
 
       <h1>My work</h1>
       <p>
-        I've recently transitioned into the role of Ecosystem Manager at <a href="https://www.zendis.de/">ZenDiS</a> (Zentrum Digitale Souveränität), 
+        I have recently transitioned into the role of Ecosystem Manager at <a href="https://www.zendis.de/">ZenDiS</a> (Zentrum Digitale Souveränität), 
 	focusing on supporting the public sector in achieving digital sovereignty 
 	through secure and adaptable open-source software solutions.
       </p>
@@ -41,6 +41,8 @@ export function Default() {
       <p>
         ***
       </p>
+
+      <hr>
 
       <p>
         <i>This playful website was designed by <a href="https://github.com/OrionReed/orionreed.com">Orion Reed</a>.</i>
