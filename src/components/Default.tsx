@@ -42,8 +42,6 @@ export function Default() {
         ***
       </p>
 
-      <hr>
-
       <p>
         <i>This playful website was designed by <a href="https://github.com/OrionReed/orionreed.com">Orion Reed</a>.</i>
       </p>
