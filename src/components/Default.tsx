@@ -17,7 +17,7 @@ export function Default() {
 	developing effective B2B communication strategies, leading web-based crowdsourcing 
 	projects, organizing events, and fostering mutually beneficial partnerships. 
 	My experience in dynamic startup environments has equipped me with the skills to 
-	streamline processes and achieve concrete results.
+	streamline processes and achieve tangible results.
       </p>
 
       <h1>My work</h1>
