@@ -22,9 +22,10 @@ export function Default() {
 
       <h1>My work</h1>
       <p>
-        I've recently transitioned into the role of ecosystem manager at <a href="https://www.zendis.de/">ZenDiS</a>
-	(Zentrum Digitale Souveränität), focusing on supporting the German public sector 
-	in achieving digital sovereignty through secure and adaptable open-source software solutions.
+        I've recently transitioned into the role of ecosystem manager at 
+	<a href="https://www.zendis.de/">ZenDiS</a> (Zentrum Digitale Souveränität), 
+	focusing on supporting the German public sector	in achieving digital sovereignty 
+	through secure and adaptable open-source software solutions.
       </p>
 
       <p>
