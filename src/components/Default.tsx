@@ -12,8 +12,8 @@ export function Default() {
       </p>
 
       <p>
-        I'm a tech communicator skilled in professional development, 
-	community building, and collaborative content initiatives. I have experience 
+        I'm a tech communicator with experience in adult education, professional development, 
+	community building, and collaborative content initiatives. I have a proven track record in 
 	developing effective B2B communication strategies, leading web-based crowdsourcing 
 	projects, organizing events, and fostering mutually beneficial partnerships. 
 	My experience in dynamic startup environments has equipped me with the skills to 
@@ -22,8 +22,8 @@ export function Default() {
 
       <h1>My work</h1>
       <p>
-        I've recently transitioned into the role of ecosystem manager at <a href="https://www.zendis.de/">ZenDiS</a> (Zentrum Digitale Souveränität), 
-	focusing on supporting the German public sector	in achieving digital sovereignty 
+        I've recently transitioned into the role of Ecosystem Manager at <a href="https://www.zendis.de/">ZenDiS</a> (Zentrum Digitale Souveränität), 
+	focusing on supporting the public sector in achieving digital sovereignty 
 	through secure and adaptable open-source software solutions.
       </p>
 
