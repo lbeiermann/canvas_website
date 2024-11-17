@@ -12,17 +12,17 @@ export function Default() {
       </p>
 
       <p>
-        I'm a tech communicator with a passion for connecting people and ideas. With a background in learning and
-	development, community building, as well as partnership building, I've helped organizations craft effective communication 
-	strategies and foster meaningful connections. I thrive in fast-paced startup environments, where I've learned to 
-	prioritize what matters most and get things done with my team.
+        I'm a tech communicator with international experience in learning and development, community building, 
+	event planning, B2B communication, content (co-)creation with communities, web-based crowdsourcing, as well 
+	as establishing knowledge exchange formats and partnerships. I like working in fast-paced startup environments, 
+	where I've learned to prioritise what matters most and get things done with my team.
       </p>
 
       <h1>My work</h1>
       <p>
         I'm currently Ecosystem Coordinator at <a href="https://www.zendis.de/">ZenDiS</a> (the German Centre for 
 	Digital Sovereignty), where I focus on strengthening the digital sovereignty of the public sector through 
-	secure and adaptable open-source software solutions.
+	secure and adaptable open source software solutions.
       </p>
 
       <p>
