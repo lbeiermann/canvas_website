@@ -12,23 +12,22 @@ export function Default() {
       </p>
 
       <p>
-        I'm a tech communicator with international experience in learning and development, community building, 
-	event planning, B2B communication, content (co-)creation with communities, web-based crowdsourcing, as well 
-	as establishing knowledge exchange formats and partnerships. I like working in fast-paced startup environments, 
-	where I've learned to prioritise what matters most and get things done with my team.
-      </p>
+        Working on the most interesting layer of the tech stack: human-to-human interaction 🤝
 
-      <h1>My work</h1>
-      <p>
-        I'm currently Ecosystem Coordinator at <a href="https://www.zendis.de/">ZenDiS</a> (the German Centre for 
+		Over the past years, I’ve developed and delivered digital skills trainings, led consulting projects for 
+		public and private sector clients, and helped coordinate multi-country collaborations around sovereign IT solutions. 
+		I’ve also advised on partner and community management strategies, built structured partner journeys from the ground up, 
+		and supported open source adoption through public speaking and stakeholder engagement.
+   
+        I'm currently Partnership Lead at <a href="https://www.zendis.de/">ZenDiS</a> (the German Centre for 
 	Digital Sovereignty), where I focus on strengthening the digital sovereignty of the public sector through 
 	secure and adaptable open source software solutions.
-      </p>
 
-      <p>
-        With my academic background in the history of technology, I bring a deep understanding of its 
-	social context. This knowledge informs my commitment to making technology accessible to all 
-	through clear communication and inclusive practices 🔓
+    With a background in the history of technology, I approach digital transformation with a critical understanding of how 
+		  technologies evolve, who they serve, and what values they reflect. This perspective helps me communicate technical 
+		  topics in a way that is context-aware and inclusive.
+
+Outside of work, I spend my time kayaking and visiting art museums — both ways to slow down, observe more closely, and see familiar things from a new angle 🛶🖼️
       </p>	
 
       <h1>Get in touch</h1>
