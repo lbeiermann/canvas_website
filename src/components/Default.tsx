@@ -5,6 +5,9 @@ export function Default() {
         Lea Beiermann
       </header>
       <h1>Hello there! 👋</h1>
+
+	  <p>
+	  </p>
     
       <p>
         I'm working on the most interesting layer of the tech stack: human-to-human interaction.
