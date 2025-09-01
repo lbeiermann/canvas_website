@@ -10,11 +10,7 @@ export function Default() {
 	  </p>
     
       <p>
-        I'm working on the most interesting layer of the tech stack: human-to-human interaction.
-	  </p>
-
-	  <p>
-		Over the past years, I’ve developed and delivered digital skills trainings, led consulting projects for 
+       	Over the past years, I’ve developed and delivered digital skills trainings, led consulting projects for 
 		public and private sector clients, and helped coordinate multi-country collaborations around sovereign IT solutions. 
 		I’ve also advised on partner and community management strategies, built structured partner journeys from the ground up, 
 		and supported open source adoption through public speaking and stakeholder engagement.
